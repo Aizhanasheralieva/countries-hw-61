@@ -1,0 +1,1 @@
+export const BASE_URL_ALL_COUNTRIES = 'https://restcountries.com/v2/all?fields=alpha3Code,name';
